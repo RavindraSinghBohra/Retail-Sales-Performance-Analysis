@@ -20,6 +20,10 @@ This project analyzes retail sales data to identify business performance trends,
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## 🧠 Sample SQL Queries
 
 ```sql
